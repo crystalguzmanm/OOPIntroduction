@@ -1,0 +1,14 @@
+C:\Users\cryst\source\repos\OOPIntroduction\CreaciónDeEstructuraDeClases\CreaciónDeEstructuraDeClases\bin\Debug\net6.0\CreaciónDeEstructuraDeClases.exe
+C:\Users\cryst\source\repos\OOPIntroduction\CreaciónDeEstructuraDeClases\CreaciónDeEstructuraDeClases\bin\Debug\net6.0\CreaciónDeEstructuraDeClases.deps.json
+C:\Users\cryst\source\repos\OOPIntroduction\CreaciónDeEstructuraDeClases\CreaciónDeEstructuraDeClases\bin\Debug\net6.0\CreaciónDeEstructuraDeClases.runtimeconfig.json
+C:\Users\cryst\source\repos\OOPIntroduction\CreaciónDeEstructuraDeClases\CreaciónDeEstructuraDeClases\bin\Debug\net6.0\CreaciónDeEstructuraDeClases.dll
+C:\Users\cryst\source\repos\OOPIntroduction\CreaciónDeEstructuraDeClases\CreaciónDeEstructuraDeClases\bin\Debug\net6.0\CreaciónDeEstructuraDeClases.pdb
+C:\Users\cryst\source\repos\OOPIntroduction\CreaciónDeEstructuraDeClases\CreaciónDeEstructuraDeClases\obj\Debug\net6.0\CreaciónDeEstructuraDeClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cryst\source\repos\OOPIntroduction\CreaciónDeEstructuraDeClases\CreaciónDeEstructuraDeClases\obj\Debug\net6.0\CreaciónDeEstructuraDeClases.AssemblyInfoInputs.cache
+C:\Users\cryst\source\repos\OOPIntroduction\CreaciónDeEstructuraDeClases\CreaciónDeEstructuraDeClases\obj\Debug\net6.0\CreaciónDeEstructuraDeClases.AssemblyInfo.cs
+C:\Users\cryst\source\repos\OOPIntroduction\CreaciónDeEstructuraDeClases\CreaciónDeEstructuraDeClases\obj\Debug\net6.0\CreaciónDeEstructuraDeClases.csproj.CoreCompileInputs.cache
+C:\Users\cryst\source\repos\OOPIntroduction\CreaciónDeEstructuraDeClases\CreaciónDeEstructuraDeClases\obj\Debug\net6.0\CreaciónDeEstructuraDeClases.dll
+C:\Users\cryst\source\repos\OOPIntroduction\CreaciónDeEstructuraDeClases\CreaciónDeEstructuraDeClases\obj\Debug\net6.0\refint\CreaciónDeEstructuraDeClases.dll
+C:\Users\cryst\source\repos\OOPIntroduction\CreaciónDeEstructuraDeClases\CreaciónDeEstructuraDeClases\obj\Debug\net6.0\CreaciónDeEstructuraDeClases.pdb
+C:\Users\cryst\source\repos\OOPIntroduction\CreaciónDeEstructuraDeClases\CreaciónDeEstructuraDeClases\obj\Debug\net6.0\CreaciónDeEstructuraDeClases.genruntimeconfig.cache
+C:\Users\cryst\source\repos\OOPIntroduction\CreaciónDeEstructuraDeClases\CreaciónDeEstructuraDeClases\obj\Debug\net6.0\ref\CreaciónDeEstructuraDeClases.dll
